@@ -1,0 +1,8 @@
+syntax: regexp
+Debug/*
+Release/*
+ipch/*
+syntax: glob
+The Tortoise and the Hare.opensdf
+The Tortoise and the Hare.sdf
+The Tortoise and the Hare.suo
